@@ -196,4 +196,4 @@ This repository serves as the official landing page for Hole Punch. The software
 **Get the most recent version of Hole Punch today!**
 
 ---
-**Last updated:** 2026-11-10 22:42:12 UTC
+**Last updated:** 2026-11-11 02:27:06 UTC
